@@ -1,0 +1,94 @@
+.wel {
+  font-size: 50px;
+}
+.one {
+  background-color: black;
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 40px;
+  border-top-right-radius: 41px;
+  border-top-left-radius: 41px;
+}
+.pic {
+  background-image: url(bg1.jpg);
+  backface-visibility: hidden;
+  background-size: cover;
+  padding-left: 625px;
+  padding-right: 90px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.ac {
+  font-size: 25px;
+}
+.int {
+  background-image: url(space.jpg);
+  backface-visibility: hidden;
+  background-size: cover;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.pen {
+  margin-right: 100px;
+}
+.spo {
+  margin-right: 100px;
+}
+.co {
+  margin-right: 100px;
+}
+.float {
+  background-image: url(mon.jpg);
+  color: black;
+  backface-visibility: hidden;
+  background-size: cover;
+  padding-left: 300px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightseagreen;
+  }
+}
+.three {
+  color: black;
+  font-style: bold;
+  padding-left: 650px;
+  background-image: url(ai.jpg);
+  backface-visibility: hidden;
+  background-size: cover;
+}
+.four {
+  background-color: black;
+  color: whitesmoke;
+}
+.fa-facebook {
+  margin-right: 20px;
+  margin-left: 50px;
+}
+.fa-twitter {
+  margin-right: 20px;
+}
+.fa-instagram {
+  margin-right: 20px;
+}
+.pro {
+  background-image: url(https://cdn.glitch.com/316079f7-1875-4d09-9e4e-c194e946d0c0%2Fbg1.jpg?v=1624714671007);
+  backface-visibility: hidden;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.m {
+  border-top-right-radius: 40px;
+  border-top-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  border-bottom-left-radius: 40px;
+}
+.four {
+  padding-left: 40px;
+}
+.zero {
+  padding-left: 560px;
+}
